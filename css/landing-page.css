@@ -119,6 +119,9 @@ header.masthead h1 {
   top: 0;
   left: 0;
   opacity: 0.3;
+  border-style: groove;
+  border-color: #2f80edff;
+  border-width: thin;
 }
 
 footer.footer {
