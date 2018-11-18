@@ -113,15 +113,12 @@ header.masthead h1 {
 
 .call-to-action .overlay {
   position: absolute;
-  background-color: #212529;
+  background-color: #80b6ffff;
   height: 100%;
   width: 100%;
   top: 0;
   left: 0;
   opacity: 0.3;
-  border-style: groove;
-  border-color: #2f80edff;
-  border-width: thin;
 }
 
 footer.footer {
